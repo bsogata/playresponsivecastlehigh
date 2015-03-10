@@ -1,0 +1,45 @@
+body {
+  background-color: #999;
+  color: #999;
+}
+
+.page-content {
+  padding: 10px;
+}
+
+.navbar {
+  background-color: #710C0C;
+}
+
+.navbar a {
+  color: #999;
+  font-size: 16px;
+}
+
+.well {
+  background-color: #710C0C;
+  color: #999;
+}
+
+#links > li {
+  list-style-type: none;
+}
+
+#links > li > a:link {
+  color: #999;
+}
+
+.section-title {
+  text-align: center;
+}
+
+#frontpage {
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h5 {
+  font-weight: bold;
+}
